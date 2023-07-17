@@ -23,5 +23,5 @@
     - scansiona il retro
     - verifico il file
   - **SE** la scansione **NON** è riuscita:
-  - **RIPETI**
+  - scansiona nuovamente **FINCHE** la scansione è riuscita
   - metti il foglio in "Documenti da scansionati"
